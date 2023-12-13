@@ -33,5 +33,5 @@ plt.show()
 
 ## We get result like this
 
-![Image](frame.png)
+![Image](photo_2023-12-13_18-01-01.png)
 ![Image](photo_2023-12-13_17-53-34.png)
